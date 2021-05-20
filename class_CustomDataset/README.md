@@ -1,6 +1,3 @@
-1. 借鉴思路 [pytorch.org](https://pytorch.org/tutorials/beginner/basics/data_tutorial.html)
-2. pytorch-doc
-
 ## 问题描述
 
 生成的数据集需要读取csv，而deepsort代码是使用imagefolder读取路径获得label，需要进行改动。
@@ -17,5 +14,7 @@
 
   └── label.csv
 
+1. 借鉴思路 [pytorch.org](https://pytorch.org/tutorials/beginner/basics/data_tutorial.html)
+2. pytorch-doc
 
 
